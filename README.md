@@ -5,8 +5,6 @@ PyWhoisAPI is a library for Python that wraps the ARIN WhoisRWS API. Currently, 
 
 More information on WhoisRWS API can be found on: https://www.arin.net/resources/whoisrws/whois_api.html
 
-Questions, comments? rambasnet@gmail.com
-
 Example usage:
 
 ```python
